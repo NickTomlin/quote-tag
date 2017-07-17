@@ -26,8 +26,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "clash"
   spec.add_development_dependency "RedCloth"
 
-  if RUBY_VERSION >= "2"
-    spec.add_development_dependency "pry-byebug"
-  end
-  
+  spec.add_development_dependency "pry-byebug"
 end
