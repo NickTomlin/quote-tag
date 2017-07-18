@@ -1,5 +1,7 @@
 # Octopress Quote Tag
 
+:warning: This is a fork of octopress/quote-tag that supports jekyll 3+. It does _not_ support Jekyll < 3 :warning:
+
 Easy HTML5 blockquotes for Jekyll sites.
 
 [![Build Status](https://travis-ci.org/octopress/quote-tag.svg)](https://travis-ci.org/octopress/quote-tag)
